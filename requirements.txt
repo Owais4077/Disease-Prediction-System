@@ -1,0 +1,13 @@
+# Core Django and Web Framework
+Django>=4.2.0
+django-crispy-forms>=1.14.0
+crispy-bootstrap5>=0.6
+
+# Machine Learning and Data Science
+scikit-learn>=1.2.0
+pandas>=1.5.0
+numpy>=1.21.0
+joblib>=1.2.0
+
+# Data Visualization
+matplotlib>=3.5.0
